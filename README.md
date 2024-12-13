@@ -54,7 +54,7 @@ To find your information, you must [sign up for a free trial](https://www.archiv
 ### 🎫 BackgroundAlert
 [Find your information](https://www.backgroundalert.com/optout/) and opt out.
 
-### ☠ 💐 BeenVerified
+### ☠ 💐 BeenVerified (2024-12-12)
 Find your information and opt out of [people search](https://www.beenverified.com/app/optout/search) and [property search](https://www.beenverified.com/app/optout/address-search). BeenVerified also owns PeopleLooker and PeopleSmart. Be aware that BeenVerified only allows one opt-out per email address, so you may need to reach out via email for additional opt-outs. You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
 ### ☠ 💐 CheckPeople
